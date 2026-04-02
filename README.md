@@ -29,7 +29,6 @@
 
 ### More Projects
 
-- 🥊 **[Djoko i Vlajko](https://github.com/ChuckySRB/Djoko-i-Vlajko)** - Two-player fighting game in Python
 - 🎯 **[Skocko](https://github.com/ChuckySRB/Skočko)** - Implementation of "Skočko" (also from Slagalica!)
 - 🏥 **[VWV](https://github.com/ChuckySRB/VWV---Vitality-Web-Visit)** - Medical appointments platform (MEAN stack)
 - 🔐 **[PGP](https://github.com/ChuckySRB/PGP)** - Email encryption algorithm implementation
@@ -37,6 +36,7 @@
 - 🤖 **[STM32 Microcontroller](https://github.com/ChuckySRB/STM32F103R6_Microcontroller_System)** - FreeRTOS-based embedded system
 - 🧮 **[ArithmeticExpressionParser](https://github.com/ChuckySRB/ArithmeticExpressionParser)** - Expression parser in Kotlin
 - 🎨 **[Shaders](https://github.com/ChuckySRB/Shaders)** - Shader experimentation in GLSL
+- 🥊 **[Djoko i Vlajko](https://github.com/ChuckySRB/Djoko-i-Vlajko)** - Two-player fighting game in Python
 
 ### Hackathon Projects
 - 🛡️ **[Fullprovodnici](https://github.com/ChuckySRB/Fullprovodnici)** - Hackathon project against violence
