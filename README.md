@@ -18,7 +18,7 @@
 ## Featured Projects
 - 👁️ **[TedPic](https://tedpic.rs)** - Software solution for Thyroid Eye Disease 
 - 🧬 **[Metagenome-AI](https://github.com/BGIResearch/Metagenome-AI)** - Metagenomics research using AI, collaboration with BGI Research
-- 🪣 **[Buckit](https://github.com/ChuckySRB/Buckit-public)** - Brain’s External RAM productivity mobile app ([Website](https://buckit.chuckylab.com) | [Google Play](https://play.google.com/store/apps/details?id=com.chuckysrb.Buckit))
+- 🪣 **[Buckit](https://buckit.chuckylab.com)** - Brain’s External RAM productivity mobile app ([Website](https://buckit.chuckylab.com) | [Google Play](https://play.google.com/store/apps/details?id=com.chuckysrb.Buckit))
 - 📜 **[EpskiGPT](https://github.com/ChuckySRB/EpskiGPT)** - GPT built from scratch generating Serbian folk poems 
 - 🦅 **[SerbianNamesAIMaker](https://github.com/ChuckySRB/SerbianNamesAIMaker)** - Neural network that generates Serbian names, with pytorch implementation from scratch
 - 🎣 **[Alas](https://github.com/ChuckySRB/Alas)** - Full-stack fishing Android app, bachelor thesis project
