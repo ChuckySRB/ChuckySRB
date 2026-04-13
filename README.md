@@ -26,6 +26,7 @@
 - 🎌 **[AniRatter](https://github.com/ChuckySRB/AniRatter)** - ML model that predicts anime/manga ratings (I needed something to help me decide what to watch/read next)
 - 🎓 **[FPL-ML](https://github.com/ChuckySRB/FPL-ML)** - Machine Learning model for FPL points prediction
 - 📅 **[AniCalendar](https://github.com/ChuckySRB/AniCalendar)** - Syncs anime airing schedules from AniList to Google Calendar
+- 🛠️ **[OperatingSystemKernel](https://github.com/ChuckySRB/OperatingSystemKernel)** - A small educational operating-system kernel for the **RISC-V 64** architecture  
 
 ### More Projects
 
