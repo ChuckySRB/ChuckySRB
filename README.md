@@ -30,7 +30,7 @@
 
 ### More Projects
 
-- 🎯 **[Skocko](https://github.com/ChuckySRB/Skočko)** - Implementation of "Skočko" (also from Slagalica!)
+- 🎯 **[Skocko](https://github.com/ChuckySRB/Skocko)** - Implementation of the game "Skočko"
 - 🏥 **[VWV](https://github.com/ChuckySRB/VWV---Vitality-Web-Visit)** - Medical appointments platform (MEAN stack)
 - 🔐 **[PGP](https://github.com/ChuckySRB/PGP)** - Email encryption algorithm implementation
 - ⚡ **[Image Processing Optimization](https://github.com/ChuckySRB/Optimisation-of-the-image-processing-based-on-the-hardver)** - Intel vector optimisation & segment matrix search
