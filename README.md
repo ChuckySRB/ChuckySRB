@@ -30,6 +30,7 @@
 
 ### More Projects
 
+- 🔪 **[PDFPromptSlicer](https://github.com/ChuckySRB/PDFPromptSlicer)** - Slices PDF into specified pages and copy the raw text to clipboard, ready for copy paste or drop the PDF to chatbot
 - 🎯 **[Skocko](https://github.com/ChuckySRB/Skocko)** - Implementation of the game "Skočko"
 - 🏥 **[VWV](https://github.com/ChuckySRB/VWV---Vitality-Web-Visit)** - Medical appointments platform (MEAN stack)
 - 🔐 **[PGP](https://github.com/ChuckySRB/PGP)** - Email encryption algorithm implementation
